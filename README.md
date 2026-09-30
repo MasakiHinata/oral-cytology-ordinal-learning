@@ -1,5 +1,3 @@
-# oral-cytology-research-medical-image-ai-research
-Deep learning research for oral cytology diagnosis support
 # 口腔細胞診画像におけるPapanicolaou分類の順序性を用いた定量スコアリング
 
 ## 研究概要
